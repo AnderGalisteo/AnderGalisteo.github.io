@@ -4,7 +4,7 @@ title: Director of Industrial Cybersecurity
 company: Cybertix
 location: Donostia, Spain
 start: Sep 2024
-end: Present
+end: Oct 2026
 order: 90
 technologies:
   - OT/IoT security
@@ -16,7 +16,7 @@ technologies:
   - Secure architectures
 ---
 
-- Owns industrial cybersecurity strategy for OT/IoT and critical-infrastructure clients, aligning security roadmaps with business risk, operational resilience, and executive priorities.
-- Works across multiple quantum-security and post-quantum cryptography initiatives, including a framework to identify where PQC should, should not, and should not yet be introduced across company infrastructure.
+- Owned industrial cybersecurity strategy for OT/IoT and critical-infrastructure clients, aligning security roadmaps with business risk, operational resilience, and executive priorities.
+- Worked across multiple quantum-security and post-quantum cryptography initiatives, including a framework to identify where PQC should, should not, and should not yet be introduced across company infrastructure.
 - Reduced average high-risk exposure by 70% across assessed environments through threat modeling, secure architectures, incident-response exercises, and risk-based remediation plans.
-- Translates cybersecurity risk into actionable programs, reusable service offerings, and trusted advisory relationships with industrial clients.
+- Translated cybersecurity risk into actionable programs, reusable service offerings, and trusted advisory relationships with industrial clients.

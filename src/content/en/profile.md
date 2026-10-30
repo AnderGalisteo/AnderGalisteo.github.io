@@ -1,14 +1,14 @@
 ---
 kind: profile
 title: Ander Galisteo
-role: Cybersecurity Executive | Industrial Cybersecurity Director | OT/IoT, Quantum Security, PQC, Risk and Engineering Leadership
+role: Senior Industrial Cybersecurity Professional at Ingeteam | Product Security, Cybersecurity Compliance and OT/IoT
 location: San Sebastian, Spain
 email: andergalisteo@gmail.com
 linkedin: https://www.linkedin.com/in/andergalisteo
 cv: /cv/Ander-Galisteo-CV.pdf
-summary: Ander Galisteo is an industrial cybersecurity and embedded-systems leader focused on secure OT/IoT architectures, quantum security, post-quantum cryptography transition planning, risk reduction, and engineering delivery for security-critical products.
+summary: Ander Galisteo is a Senior Industrial Cybersecurity Professional at Ingeteam. He works across business units to align product security, cybersecurity compliance, and the protection of industrial environments with business priorities, customer requirements, and operational needs.
 highlights:
-  - Leads industrial cybersecurity strategy for OT/IoT, critical-infrastructure, and quantum-readiness initiatives.
+  - Works across Ingeteam business units on product security, cybersecurity compliance, and industrial cybersecurity, with a business-oriented approach.
   - Develops a framework for identifying where, how, and when to adopt post-quantum cryptography in company infrastructure.
   - Reduced average high-risk exposure by 70% across assessed environments through risk-based security programs.
   - Led distributed engineering services with 13 direct reports, up to 54 indirect reports, and 11 concurrent client projects.

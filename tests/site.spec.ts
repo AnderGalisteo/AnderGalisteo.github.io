@@ -24,6 +24,11 @@ test("uses separate pages for major sections and preserves language context", as
   await page.getByLabel("Primary navigation").getByRole("link", { name: "Experience" }).click();
   await expect(page).toHaveURL(/\/en\/experience\/$/);
   await expect(page.getByRole("heading", { name: "Experience" }).first()).toBeVisible();
+  const roles = page.getByRole("article");
+  await expect(roles.first()).toContainText("Ingeteam");
+  await expect(roles.first()).toContainText("Senior Industrial Cybersecurity Professional");
+  await expect(roles.first()).toContainText("Oct 2026");
+  await expect(roles.filter({ hasText: "Cybertix" })).toContainText("Oct 2026");
   await expect(page.getByText("Director of Industrial Cybersecurity")).toBeVisible();
 
   await page.getByRole("link", { name: "Español" }).click();

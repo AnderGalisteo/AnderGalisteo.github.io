@@ -1,14 +1,14 @@
 ---
 kind: profile
 title: Ander Galisteo
-role: Ejecutivo de ciberseguridad | Director de ciberseguridad industrial | Seguridad OT/IoT, seguridad cuántica, PQC, riesgo y liderazgo de ingeniería
+role: Senior Industrial Cybersecurity Professional en Ingeteam | Seguridad de producto, cumplimiento normativo y seguridad OT/IoT
 location: San Sebastian, España
 email: andergalisteo@gmail.com
 linkedin: https://www.linkedin.com/in/andergalisteo
 cv: /cv/Ander-Galisteo-CV.pdf
-summary: Ander Galisteo es un líder en ciberseguridad industrial y sistemas embebidos, centrado en arquitecturas OT/IoT seguras, seguridad cuántica, planificación de transición a criptografía postcuántica, reducción de riesgo y dirección de ingeniería para productos críticos.
+summary: Ander Galisteo es Senior Industrial Cybersecurity Professional en Ingeteam. Trabaja de forma transversal con las distintas unidades de negocio para alinear la seguridad de producto, el cumplimiento normativo en ciberseguridad y la protección de entornos industriales con las prioridades de negocio, los requisitos de los clientes y las necesidades operativas.
 highlights:
-  - Lidera estrategia de ciberseguridad industrial para iniciativas OT/IoT, infraestructuras críticas y preparación cuántica.
+  - Trabaja de forma transversal con las unidades de negocio de Ingeteam en seguridad de producto, cumplimiento normativo y ciberseguridad industrial, con orientación a negocio.
   - Desarrolla un framework para identificar dónde, cómo y cuándo adoptar criptografía postcuántica en la infraestructura de una compañía.
   - Redujo la exposición media de alto riesgo en un 70% mediante programas de seguridad basados en riesgo.
   - Dirigió servicios de ingeniería distribuidos con 13 reportes directos, hasta 54 indirectos y 11 proyectos de cliente concurrentes.
